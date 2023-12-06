@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+
+.vscode
+
+# local env files
+/backend/config/config.env
